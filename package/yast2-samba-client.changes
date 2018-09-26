@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Wed Sep 26 14:02:33 UTC 2018 - Samuel Cabrero <scabrero@suse.de>
+
+- Fix reading the permitted group to create "user shares";
+  (bsc#1107574).
+- 4.0.3
+
+-------------------------------------------------------------------
 Fri Apr 27 13:36:58 UTC 2018 - palcantara@suse.de
 
 - yast-samba-client fails to join if /etc/samba/smb.conf or
