@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Tue May  7 16:55:53 UTC 2019 - David Mulder <dmulder@suse.com>
+
+- Stop using deprecated idmap options; (jsc#SLE-5632); (jsc#SLE-6283);
+- 4.0.5
+
+-------------------------------------------------------------------
 Mon Nov 26 02:32:32 UTC 2018 - Noah Davis <noahadvs@gmail.com>
 
 - Provide icon with module (boo#1109310)
